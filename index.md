@@ -12,3 +12,8 @@
 
 [Here](HW02/IE48B_HW02.ipynb) is my jupyter notebook
 
+## Homework 3 (13/12/2021)
+
+[Here](HW03/IE48B_HW03.html) is my task about comparison of NN classifiers with alternative representations.
+
+[Here](HW03/IE48B_HW03.ipynb) is my jupyter notebook
